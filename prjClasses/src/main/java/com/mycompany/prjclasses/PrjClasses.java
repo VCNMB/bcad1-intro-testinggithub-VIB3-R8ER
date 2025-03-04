@@ -11,6 +11,6 @@ package com.mycompany.prjclasses;
 public class PrjClasses {
 
     public static void main(String[] args) {
-        System.out.println("Github test text insert text here!");
+        System.out.println("Github test text insert text here! even more added text");
     }
 }
